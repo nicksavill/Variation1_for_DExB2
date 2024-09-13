@@ -3,8 +3,8 @@
 These notebooks are for Direct Entry students to Data Exploration in Biology 2. 
 
 The over-arching learning objectives are:
-    1. Learn some basic programming concepts to write simple programs to manipulate, describe and plot data.
-    2. Develop a basic understanding of descriptive and inferential statistical concepts.
+1. Learn some basic programming concepts to write simple programs to manipulate, describe and plot data.
+2. Develop a basic understanding of descriptive and inferential statistical concepts.
 
 These learning objectives are accomplished by hands-on practical experience of writing code, and analysing data with code.
 
